@@ -1,11 +1,11 @@
 {
-    "name": "maicol07/laravel-oidc-client",
+    "name": "philippspeck/laravel-oidc-client",
     "version": "1.0.0",
     "license": "MIT",
     "require": {
         "php": ">=8.0",
-        "maicol07/oidc-client": "^2",
-        "laravel/framework": "^8"
+        "maicol07/oidc-client": "^3",
+        "laravel/framework": "^10"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest",
@@ -21,6 +21,11 @@
             "name": "Maicol Battistini",
             "email": "webmaster@maicol07.it",
             "homepage": "https://maicol07.it",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Philipp Speck",
+            "email": "me@philippspeck.com",
             "role": "Maintainer"
         }
     ],
